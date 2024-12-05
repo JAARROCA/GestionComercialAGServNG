@@ -1,0 +1,12 @@
+addEmptyValue:1,
+dataProviderID1:"id",
+dataProviderID2:"nombre",
+dataProviderID3:"apellido1",
+dataSource:"db:/conexiongestioncomercialag/tbmaestrooperario",
+name:"ListadoOperariosGC",
+returnDataProviders:1,
+showDataProviders:6,
+sortOptions:"idoperario asc",
+typeid:34,
+uuid:"23D2CCB1-95F0-466E-B538-9C4C42919143",
+valueListType:1

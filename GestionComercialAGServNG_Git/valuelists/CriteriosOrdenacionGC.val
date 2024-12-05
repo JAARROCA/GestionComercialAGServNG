@@ -1,0 +1,9 @@
+addEmptyValue:1,
+customValues:"Por Fecha de Vencimiento|0\
+Por Cuenta + Fecha de Vencimientos|1\
+Por Cuenta + Factura|2\
+Por Importe|3\
+Por Nº de Factura|4",
+name:"CriteriosOrdenacionGC",
+typeid:34,
+uuid:"FA07C7FD-180A-4A0C-9E04-A5055EB11DC2"

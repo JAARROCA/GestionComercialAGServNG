@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Pendiente Liquidar|1\
+Pendiente Liquidar o Remesado|2\
+S - Seleccionado|S\
+R - Remesado|R",
+name:"SituacionEfecto2GC",
+typeid:34,
+uuid:"E63E17E9-4FE3-4226-9F76-DFB7DDA319E4"

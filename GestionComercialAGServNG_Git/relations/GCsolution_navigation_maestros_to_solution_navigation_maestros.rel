@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/solution_navigation_maestros",
+items:[
+{foreignColumnName:"solution_id",primaryDataProviderID:"scopes.globals.GCthisSolution_ID",typeid:23,uuid:"7D50B83E-525E-4255-98AF-71ED3FFBD149"}
+],
+name:"GCsolution_navigation_maestros_to_solution_navigation_maestros",
+primaryDataSource:"db:/conexiongestioncomercialag/solution_navigation_maestros",
+typeid:22,
+uuid:"7B2534E9-E08D-43D8-84FC-675F1E630E6E"

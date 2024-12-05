@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+items:[
+{foreignColumnName:"codigo",primaryDataProviderID:"ref_lfa",typeid:23,uuid:"4E6FDBF0-9FE5-45AE-9202-38D0AE86DEF2"}
+],
+name:"gctbfacturaproformalinea_to_tbmaestroarticulos",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturaproformalinea",
+typeid:22,
+uuid:"C82924FE-DFF7-46AF-9E5A-EF9D3B07BB23"

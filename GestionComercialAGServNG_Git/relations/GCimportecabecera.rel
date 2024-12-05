@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/cortraba",
+items:[
+{foreignColumnName:"id",primaryDataProviderID:"id",typeid:23,uuid:"02F49690-8BD3-4D27-8DB7-E342B1877E98"}
+],
+name:"GCimportecabecera",
+primaryDataSource:"db:/conexiongestioncomercialag/cortraba",
+typeid:22,
+uuid:"CCFFFF79-C441-41E4-BFC9-B826F6CE926C"

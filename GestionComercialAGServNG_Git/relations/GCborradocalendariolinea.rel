@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbcalendariousuariolinea",
+items:[
+{foreignColumnName:"calendario_idx",primaryDataProviderID:"scopes.globals.GCClaveCalendario",typeid:23,uuid:"4414D84D-798B-43AA-BD62-AED908D5498F"}
+],
+name:"GCborradocalendariolinea",
+primaryDataSource:"db:/conexiongestioncomercialag/tbcalendariousuariolinea",
+typeid:22,
+uuid:"FB849495-6566-4735-8112-39B9D9F78618"

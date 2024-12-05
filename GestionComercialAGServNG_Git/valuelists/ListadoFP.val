@@ -1,0 +1,13 @@
+addEmptyValue:1,
+dataProviderID1:"id",
+dataProviderID2:"codig_fp",
+dataProviderID3:"denom_fp",
+dataSource:"db:/conexiongestioncomercialag/tbmaestroformpago",
+name:"ListadoFP",
+returnDataProviders:1,
+separator:"  - ",
+showDataProviders:6,
+sortOptions:"codig_fp asc",
+typeid:34,
+uuid:"D8A04EA6-3B19-4DA3-B8CE-7EA3A6963EB4",
+valueListType:1

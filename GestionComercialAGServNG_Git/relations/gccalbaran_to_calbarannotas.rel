@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/calbarannotas",
+initialSort:"linea asc",
+items:[
+{foreignColumnName:"cod_cal",primaryDataProviderID:"cod_cal",typeid:23,uuid:"F6CEAA30-8B76-44D2-86F4-791AF43CFA1C"}
+],
+name:"gccalbaran_to_calbarannotas",
+primaryDataSource:"db:/conexiongestioncomercialag/calbaran",
+typeid:22,
+uuid:"9CB8A91D-8776-48C0-84F8-8EEE582E542F"

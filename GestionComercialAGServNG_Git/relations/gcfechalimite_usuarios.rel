@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/usuarios",
+items:[
+{foreignColumnName:"cod_us",primaryDataProviderID:"scopes.globals.GClogin_usuario",typeid:23,uuid:"5AC18F8D-8FFD-4F95-A3D6-28DFFC5FC391"}
+],
+name:"gcfechalimite_usuarios",
+primaryDataSource:"db:/conexiongestioncomercialag/usuarios",
+typeid:22,
+uuid:"0F53E250-743A-406D-9CA1-413D50B88C45"

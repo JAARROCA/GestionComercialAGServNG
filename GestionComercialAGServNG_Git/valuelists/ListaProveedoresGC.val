@@ -1,0 +1,12 @@
+dataProviderID1:"id",
+dataProviderID2:"codpro",
+dataProviderID3:"descproveedor",
+dataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+name:"ListaProveedoresGC",
+returnDataProviders:1,
+separator:"  - ",
+showDataProviders:6,
+sortOptions:"codpro asc",
+typeid:34,
+uuid:"BBFB6950-5F33-407D-950A-33B9833EC3B6",
+valueListType:1

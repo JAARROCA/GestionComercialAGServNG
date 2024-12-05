@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbnotalinea",
+initialSort:"eje_lfa asc, nup_lfa asc, nli_lfa asc",
+items:[
+{foreignColumnName:"eje_lfa",primaryDataProviderID:"eje_cfa",typeid:23,uuid:"10405A17-CFA8-47E5-B307-3AA441095D9D"},
+{foreignColumnName:"nup_lfa",primaryDataProviderID:"nup_cfa",typeid:23,uuid:"F3908882-954F-4541-A249-1A72F8569D5F"}
+],
+name:"GCtbnotacabecera_to_tbnotalinea",
+primaryDataSource:"db:/conexiongestioncomercialag/tbnotacabecera",
+typeid:22,
+uuid:"310BD3D2-7E41-4208-81B2-762859CBB104"

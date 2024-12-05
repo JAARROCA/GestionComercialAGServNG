@@ -1,0 +1,6 @@
+addEmptyValue:1,
+customValues:"NO COBRADO|^\
+COBRADO|C",
+name:"SituacionNota",
+typeid:34,
+uuid:"0040064B-398D-4785-9C5E-E6E325B16B82"

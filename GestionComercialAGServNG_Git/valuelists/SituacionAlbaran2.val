@@ -1,0 +1,7 @@
+addEmptyValue:1,
+customValues:"Todos|^\
+Facturados|F\
+Pendientes de Facturar|P",
+name:"SituacionAlbaran2",
+typeid:34,
+uuid:"22F8EA37-929F-48C7-A948-14CE062D2F75"

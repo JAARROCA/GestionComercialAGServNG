@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+items:[
+{foreignColumnName:"situacion",primaryDataProviderID:"LITERAL:'S'",typeid:23,uuid:"43444326-9D88-40D1-8A83-D4D25D1B1DAA"}
+],
+name:"gcactualizacionsituacioncobrospagos",
+primaryDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+typeid:22,
+uuid:"D2C0C3A8-01DD-45FE-B484-CD15AA78AD57"

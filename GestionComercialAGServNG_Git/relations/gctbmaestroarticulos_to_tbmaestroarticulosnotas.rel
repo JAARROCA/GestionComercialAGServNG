@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulosnotas",
+initialSort:"linea asc",
+items:[
+{foreignColumnName:"codpieza",primaryDataProviderID:"codigo",typeid:23,uuid:"26553832-DC9E-4A3D-9BC4-10D36E00BA7D"}
+],
+name:"gctbmaestroarticulos_to_tbmaestroarticulosnotas",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+typeid:22,
+uuid:"AB0AAD23-7E12-470E-A3F7-D20B111FDC69"

@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroformpago",
+items:[
+{foreignColumnName:"codig_fp",primaryDataProviderID:"cfpa_cfa",typeid:23,uuid:"AC444515-8C73-46D9-B599-8F9991763ED8"}
+],
+name:"GCtbnotacabecera_to_tbmaestroformpago",
+primaryDataSource:"db:/conexiongestioncomercialag/tbnotacabecera",
+typeid:22,
+uuid:"5FF8B546-E020-486C-99EC-580F8919F9E1"

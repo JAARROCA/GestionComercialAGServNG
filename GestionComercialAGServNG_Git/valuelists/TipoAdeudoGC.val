@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Último adeudo de una serie de adeudos|1\
+Primer adeudo de una serie de adeudos|2\
+Adeudo con un único pago|3\
+Adeudo que no es ni del primero ni del último|4",
+name:"TipoAdeudoGC",
+typeid:34,
+uuid:"BB58860C-56E3-4C45-9EE7-E34909AE5C9A"

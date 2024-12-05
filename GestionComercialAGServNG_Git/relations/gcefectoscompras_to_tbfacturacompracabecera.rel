@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacompracabecera",
+items:[
+{foreignColumnName:"nup_cfca",primaryDataProviderID:"nup_efc",typeid:23,uuid:"5E729EB7-8222-4EEB-8DC8-5255F1D36960"},
+{foreignColumnName:"pro_cfca",primaryDataProviderID:"pro_efc",typeid:23,uuid:"FC1D1623-FF0F-406E-8DE5-305AFC8EC2BF"}
+],
+name:"gcefectoscompras_to_tbfacturacompracabecera",
+primaryDataSource:"db:/conexiongestioncomercialag/efectoscompras",
+typeid:22,
+uuid:"E4B7B0A2-AB60-4D67-87AD-0CF5205DB1B9"

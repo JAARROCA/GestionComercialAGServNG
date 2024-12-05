@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/efectoscompras",
+items:[
+{
+dataProviderIDToAggregate:"impo_efc",
+name:"sumefectosc",
+type:4,
+typeid:40,
+uuid:"ACB2D912-6E00-4A80-B9DE-EC199DFDF606"
+}
+],
+typeid:39,
+uuid:"E3139A79-669F-46BD-8F65-07A256BA1FF9"

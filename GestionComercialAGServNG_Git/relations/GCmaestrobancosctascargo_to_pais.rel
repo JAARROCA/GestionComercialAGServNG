@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/pais",
+items:[
+{foreignColumnName:"pai_iso2",primaryDataProviderID:"pais",typeid:23,uuid:"2E28362E-7322-48A7-A328-550001D0ACEF"}
+],
+name:"GCmaestrobancosctascargo_to_pais",
+primaryDataSource:"db:/conexiongestioncomercialag/maestrobancosctascargo",
+typeid:22,
+uuid:"A5312B39-4F15-4223-865F-0EE36606E0AB"

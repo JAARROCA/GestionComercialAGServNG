@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"clie_cot",typeid:23,uuid:"E00BFEC6-12E1-4887-AF8B-7AD5819D1BC0"}
+],
+name:"GCcortraba_to_tbmaestroclientes",
+primaryDataSource:"db:/conexiongestioncomercialag/cortraba",
+typeid:22,
+uuid:"65BC90CA-DE3F-4A10-964F-C2EE468B6CA0"

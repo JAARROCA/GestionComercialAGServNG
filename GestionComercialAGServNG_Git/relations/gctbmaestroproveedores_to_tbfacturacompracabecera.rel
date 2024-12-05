@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacompracabecera",
+initialSort:"fecha_cfca desc",
+items:[
+{foreignColumnName:"pro_cfca",primaryDataProviderID:"codpro",typeid:23,uuid:"F405FCA2-B19A-4CD6-971F-108C275A15BE"}
+],
+name:"gctbmaestroproveedores_to_tbfacturacompracabecera",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+typeid:22,
+uuid:"BF5F1494-8D4B-4ABE-8834-B965336ECE23"

@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/swiftbancos",
+items:[
+{foreignColumnName:"idbanco",primaryDataProviderID:"idbanco",typeid:23,uuid:"02620D11-2DD7-450A-A299-0C37C363D4C7"}
+],
+name:"GCmaestrobancosctascargo_to_swiftbancos",
+primaryDataSource:"db:/conexiongestioncomercialag/maestrobancosctascargo",
+typeid:22,
+uuid:"9DA7A60D-051F-47DB-A55E-03DAAC27525A"

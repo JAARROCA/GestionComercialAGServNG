@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+items:[
+{
+dataProviderIDToAggregate:"impnee_cfa",
+name:"sumfacturas",
+type:4,
+typeid:40,
+uuid:"8939309A-D1F9-4181-AEE1-0C49CDC62623"
+}
+],
+typeid:39,
+uuid:"C2538182-0557-4827-BAC9-B9432CCA9847"

@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbcalendariousuario_appt_types",
+items:[
+{foreignColumnName:"appt_type_idx",primaryDataProviderID:"categoria",typeid:23,uuid:"85CD9522-3EEC-46D7-9692-9151DB225CFD"}
+],
+name:"GCtbcalendariousuariolinea_to_tbcalendariousuario_appt_types",
+primaryDataSource:"db:/conexiongestioncomercialag/tbcalendariousuariolinea",
+typeid:22,
+uuid:"5B37392C-45AE-4EDC-93D8-3A3270723806"

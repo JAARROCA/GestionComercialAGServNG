@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Todos|0\
+E - Entrada|E\
+S - Salida|S\
+I - Inventario|I",
+name:"CriterioMovArticulosGC",
+typeid:34,
+uuid:"241066B0-ED8B-485D-B962-F5BF6412D78F"

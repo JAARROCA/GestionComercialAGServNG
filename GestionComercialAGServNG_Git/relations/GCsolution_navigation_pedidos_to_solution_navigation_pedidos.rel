@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/solution_navigation_pedidos",
+items:[
+{foreignColumnName:"solution_id",primaryDataProviderID:"scopes.globals.GCthisSolution_ID",typeid:23,uuid:"45B05D32-5E6A-4177-8463-C1E845FC8F87"}
+],
+name:"GCsolution_navigation_pedidos_to_solution_navigation_pedidos",
+primaryDataSource:"db:/conexiongestioncomercialag/solution_navigation_pedidos",
+typeid:22,
+uuid:"C1BEE20B-4B10-48AC-8F92-C3BB39E602A9"

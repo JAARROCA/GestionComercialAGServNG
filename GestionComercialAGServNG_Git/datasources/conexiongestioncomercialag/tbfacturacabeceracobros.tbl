@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/tbfacturacabeceracobros",
+items:[
+{
+dataProviderIDToAggregate:"impor_cob",
+name:"sumimporte",
+type:4,
+typeid:40,
+uuid:"DFE273E1-22DB-4214-B8DE-6330D42ED6EB"
+}
+],
+typeid:39,
+uuid:"62F18E7C-FBD8-4A16-8130-DA37C3E08054"

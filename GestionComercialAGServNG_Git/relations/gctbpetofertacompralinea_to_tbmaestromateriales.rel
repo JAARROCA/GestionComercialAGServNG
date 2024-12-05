@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestromateriales",
+items:[
+{foreignColumnName:"codigo",primaryDataProviderID:"ref",typeid:23,uuid:"0316EF50-F529-42A1-923C-9D7CDE98466D"}
+],
+name:"gctbpetofertacompralinea_to_tbmaestromateriales",
+primaryDataSource:"db:/conexiongestioncomercialag/tbpetofertacompralinea",
+typeid:22,
+uuid:"1E6BCB0C-1387-42C2-80F0-5E22C9E4D57B"

@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/tbnotacabecera",
+items:[
+{
+dataProviderIDToAggregate:"impnee_cfa",
+name:"SumNotas",
+type:4,
+typeid:40,
+uuid:"7F8B89A9-1E8E-47CE-A741-CC1ED351602D"
+}
+],
+typeid:39,
+uuid:"54090F49-E876-45DF-8464-AA379DBE2AE3"

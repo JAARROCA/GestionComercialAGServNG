@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/lalbaran",
+items:[
+{
+dataProviderIDToAggregate:"impor_lal",
+name:"sum_impor_lal",
+type:4,
+typeid:40,
+uuid:"27BF84A0-6F72-4855-9704-7758A2420A70"
+}
+],
+typeid:39,
+uuid:"98F2F8B2-3CFF-407C-A069-0B045C0EE55E"

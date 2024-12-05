@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/lalbaran",
+initialSort:"nli_lal asc",
+items:[
+{foreignColumnName:"nup_lal",primaryDataProviderID:"cod_cal",typeid:23,uuid:"FCFE8DC2-C7D9-41CE-A482-284311A03A3C"}
+],
+name:"GCcalbaran_to_lalbaran",
+primaryDataSource:"db:/conexiongestioncomercialag/calbaran",
+typeid:22,
+uuid:"93F14A41-2C69-46FE-A364-614E38411B8B"

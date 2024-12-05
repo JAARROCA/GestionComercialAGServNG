@@ -1,0 +1,7 @@
+addEmptyValue:1,
+customValues:"E - Entrada|E\
+S - Salida|S\
+I - Inventario|I",
+name:"TipoMovGC",
+typeid:34,
+uuid:"8AC4E049-F2B4-42C7-A49E-D0934B01361C"

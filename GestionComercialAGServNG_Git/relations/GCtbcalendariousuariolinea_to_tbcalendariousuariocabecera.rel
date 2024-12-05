@@ -1,0 +1,9 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbcalendariousuariocabecera",
+items:[
+{foreignColumnName:"idusuario",primaryDataProviderID:"idusuario",typeid:23,uuid:"90B626BF-8CE3-4B75-8113-A01EF58F1A7B"}
+],
+name:"GCtbcalendariousuariolinea_to_tbcalendariousuariocabecera",
+primaryDataSource:"db:/conexiongestioncomercialag/tbcalendariousuariolinea",
+typeid:22,
+uuid:"378EC1D9-4089-4AC2-A69E-52D13418DF90"

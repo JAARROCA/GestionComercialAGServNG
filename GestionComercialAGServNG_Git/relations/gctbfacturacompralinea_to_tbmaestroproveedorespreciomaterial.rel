@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedorespreciomaterial",
+items:[
+{foreignColumnName:"idarticulo",primaryDataProviderID:"ref_lfca",typeid:23,uuid:"18D93D3C-2316-4057-82D8-202B1DF1B7C2"},
+{foreignColumnName:"codpro",primaryDataProviderID:"pro_lfca",typeid:23,uuid:"54EC136E-702D-4A3B-87E0-04DA5CDC1380"}
+],
+name:"gctbfacturacompralinea_to_tbmaestroproveedorespreciomaterial",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacompralinea",
+typeid:22,
+uuid:"91055416-067E-4A3F-A952-81416BF8F98E"

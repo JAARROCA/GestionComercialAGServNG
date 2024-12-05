@@ -1,0 +1,11 @@
+dataProviderID1:"idfamilia",
+dataProviderID2:"descfamilia",
+dataSource:"db:/conexiongestioncomercialag/tbmaestrofamila",
+name:"FamiliasGC",
+returnDataProviders:1,
+separator:"  - ",
+showDataProviders:3,
+sortOptions:"idfamilia asc",
+typeid:34,
+uuid:"CEA16435-A9F9-427B-AF09-CB8E4BFCF07B",
+valueListType:1

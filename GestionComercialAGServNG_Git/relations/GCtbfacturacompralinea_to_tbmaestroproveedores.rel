@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+items:[
+{foreignColumnName:"codpro",primaryDataProviderID:"pro_lfca",typeid:23,uuid:"8416C902-21AD-4EB2-AC7E-2F253CCF4A52"}
+],
+name:"GCtbfacturacompralinea_to_tbmaestroproveedores",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacompralinea",
+typeid:22,
+uuid:"5FC0FCE7-170B-418C-ADAF-A1CB4456E3BC"

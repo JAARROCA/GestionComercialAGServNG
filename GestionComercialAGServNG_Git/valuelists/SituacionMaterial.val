@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"ACTIVO|A\
+OBSOLETO|O",
+displayValueType:12,
+name:"SituacionMaterial",
+realValueType:12,
+typeid:34,
+uuid:"C4E1C81D-567E-4A95-A426-EFC3CF31B8CF"

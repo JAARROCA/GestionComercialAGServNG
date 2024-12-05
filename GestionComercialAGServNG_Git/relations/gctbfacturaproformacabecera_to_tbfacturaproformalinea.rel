@@ -1,0 +1,13 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturaproformalinea",
+initialSort:"nli_lfa asc",
+items:[
+{foreignColumnName:"ser_lfa",primaryDataProviderID:"ser_cfa",typeid:23,uuid:"53F8C474-3321-431E-BD39-A34701231C68"},
+{foreignColumnName:"eje_lfa",primaryDataProviderID:"eje_cfa",typeid:23,uuid:"7AD2E20B-B3BE-4844-BE39-76FE656A1143"},
+{foreignColumnName:"nup_lfa",primaryDataProviderID:"nup_cfa",typeid:23,uuid:"EF0DC08D-2C48-465C-BB41-A706048A71C3"}
+],
+name:"gctbfacturaproformacabecera_to_tbfacturaproformalinea",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturaproformacabecera",
+typeid:22,
+uuid:"F04F2EE3-740B-40CE-8159-C153D3A25759"

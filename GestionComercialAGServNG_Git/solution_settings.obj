@@ -1,0 +1,10 @@
+firstFormID:"C3C66727-7387-4CFB-9FC0-BA064DB733FC",
+loginFormID:"C3C66727-7387-4CFB-9FC0-BA064DB733FC",
+modulesNames:"svyCore,svyUtils,svyUtils$Excel,svySearch,svyUtils$customDialogs,svyNavigationUX,ContaAGServ,svyNavigation,svyUtils$NGClient",
+onCloseMethodID:"-1",
+onErrorMethodID:"-1",
+onOpenMethodID:"4CDFB69E-AA10-4125-BDBC-FFD2DE09CB47",
+styleSheetID:"BE3BAFCC-B878-461F-8FD0-A221D2FD0D51",
+typeid:43,
+uuid:"E0FA7408-4D09-490E-8532-3AF5CE1D3CB5",
+version:"1.0"

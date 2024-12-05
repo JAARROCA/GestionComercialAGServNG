@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/comprasiva",
+items:[
+{foreignColumnName:"idusuario",primaryDataProviderID:"scopes.globals.GClogin_usuario",typeid:23,uuid:"BA8C4D51-6035-430F-A0CC-DE6B25006F02"}
+],
+name:"comprasiva_to_comprasiva",
+primaryDataSource:"db:/conexiongestioncomercialag/comprasiva",
+typeid:22,
+uuid:"BF3FC6B9-7F9F-4ABB-82AF-459B04E541D2"

@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/solution_navigation_presupuest",
+items:[
+{foreignColumnName:"solution_id",primaryDataProviderID:"scopes.globals.GCthisSolution_ID",typeid:23,uuid:"1CC1028D-20F2-48D8-816A-2DD9D84953E6"}
+],
+name:"GCsolution_navigation_presupuestos_to_solution_navigation_presupuestos",
+primaryDataSource:"db:/conexiongestioncomercialag/solution_navigation_presupuest",
+typeid:22,
+uuid:"95FB4D87-8AF3-4A0B-B705-D38397B50BBE"

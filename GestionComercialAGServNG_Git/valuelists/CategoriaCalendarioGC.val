@@ -1,0 +1,10 @@
+addEmptyValue:1,
+dataProviderID1:"appt_type_idx",
+dataProviderID2:"appt_type",
+dataSource:"db:/conexiongestioncomercialag/tbcalendariousuario_appt_types",
+name:"CategoriaCalendarioGC",
+returnDataProviders:1,
+showDataProviders:2,
+typeid:34,
+uuid:"D6BDC4C0-F2C2-4C4D-9615-C80FD63BDB06",
+valueListType:1

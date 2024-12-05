@@ -1,0 +1,9 @@
+dataProviderID1:"factor",
+dataSource:"db:/conexiongestioncomercialag/tbmaestrotipoiva",
+name:"TipoIva",
+returnDataProviders:1,
+showDataProviders:1,
+sortOptions:"factor desc",
+typeid:34,
+uuid:"9C27E40E-DE6A-4EF3-8EBD-F100CC3C723A",
+valueListType:1

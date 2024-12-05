@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+items:[
+{foreignColumnName:"codpro",primaryDataProviderID:"pro_pag",typeid:23,uuid:"D79530D1-8FE2-4451-A0F2-283564046962"}
+],
+name:"tbfacturacompracabecerapagos_to_tbmaestroproveedores",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacompracabecerapagos",
+typeid:22,
+uuid:"837253B4-A43E-491F-83EA-4349336345D1"

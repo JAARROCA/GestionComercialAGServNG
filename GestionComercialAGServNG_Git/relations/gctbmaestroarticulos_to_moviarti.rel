@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/moviarti",
+initialSort:"fecha_ms desc",
+items:[
+{foreignColumnName:"cod_ms",primaryDataProviderID:"codigo",typeid:23,uuid:"3EA6E028-6175-4815-8AE0-B14ADD04B421"}
+],
+name:"gctbmaestroarticulos_to_moviarti",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+typeid:22,
+uuid:"B7BEB93E-500F-42EB-8FFC-DCC32A8676DA"

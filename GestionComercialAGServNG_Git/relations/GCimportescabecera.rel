@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/calbaran",
+items:[
+{foreignColumnName:"id",primaryDataProviderID:"id",typeid:23,uuid:"5809F57D-5D0D-4C1B-AA25-0866BA9E336F"}
+],
+name:"GCimportescabecera",
+primaryDataSource:"db:/conexiongestioncomercialag/calbaran",
+typeid:22,
+uuid:"6B634A0A-047D-47B3-BDA5-AFE0DFFD2801"

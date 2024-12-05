@@ -1,0 +1,12 @@
+dataProviderID1:"id",
+dataProviderID2:"idcliente",
+dataProviderID3:"desccliente",
+dataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+name:"ListaClientesGC",
+returnDataProviders:1,
+separator:"  - ",
+showDataProviders:6,
+sortOptions:"idcliente asc",
+typeid:34,
+uuid:"A834509B-F52E-4807-B74C-21DDEE9461EB",
+valueListType:1

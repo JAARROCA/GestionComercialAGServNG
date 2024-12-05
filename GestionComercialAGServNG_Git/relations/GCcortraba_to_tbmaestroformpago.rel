@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroformpago",
+items:[
+{foreignColumnName:"codig_fp",primaryDataProviderID:"cfpa_cot",typeid:23,uuid:"2AC9DC0D-8415-4815-8623-F96B8C8E273E"}
+],
+name:"GCcortraba_to_tbmaestroformpago",
+primaryDataSource:"db:/conexiongestioncomercialag/cortraba",
+typeid:22,
+uuid:"5DADEC30-BD37-4961-A94B-BAFC1953D7CE"

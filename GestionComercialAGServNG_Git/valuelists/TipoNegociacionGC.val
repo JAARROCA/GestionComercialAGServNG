@@ -1,0 +1,14 @@
+addEmptyValue:1,
+customValues:"Sin Negociar|^\
+Ejectos domiciliados a la vista|19\
+Anticipo de Efectos Norma 58|58\
+Transferencias, nóminas Norma 34|34\
+Pagos domiciliados Norma 68|68\
+Confirming|CO\
+Anticipo de Facturas|AF\
+Anticipo Fras. Extranjero|AE\
+Factoring|FA\
+Pagare|PA",
+name:"TipoNegociacionGC",
+typeid:34,
+uuid:"B1B1D599-0DDA-4C77-9793-710ED45B9295"

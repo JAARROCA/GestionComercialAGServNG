@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/tbpedidocompralinea",
+items:[
+{
+dataProviderIDToAggregate:"cantidad",
+name:"sumcantidad",
+type:4,
+typeid:40,
+uuid:"206E13E5-6514-4B0E-870A-5B8702B8D1E2"
+}
+],
+typeid:39,
+uuid:"E8087326-1F9B-4B86-A29A-D93D872A05D3"

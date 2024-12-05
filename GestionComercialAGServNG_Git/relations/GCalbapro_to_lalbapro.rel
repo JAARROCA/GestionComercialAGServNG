@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/lalbapro",
+initialSort:"nli_lap asc",
+items:[
+{foreignColumnName:"prov_lap",primaryDataProviderID:"pro_ap",typeid:23,uuid:"069C3F7E-ED94-4BA9-BCF6-34048D8DE33D"},
+{foreignColumnName:"nup_lap",primaryDataProviderID:"nup_ap",typeid:23,uuid:"B279A2D1-853F-48FD-9534-DFF5A188C142"}
+],
+name:"GCalbapro_to_lalbapro",
+primaryDataSource:"db:/conexiongestioncomercialag/albapro",
+typeid:22,
+uuid:"0658B562-1389-40D2-B707-8F3D644071AB"

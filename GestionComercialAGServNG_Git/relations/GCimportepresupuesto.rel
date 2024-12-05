@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/cofertas",
+items:[
+{foreignColumnName:"id",primaryDataProviderID:"id",typeid:23,uuid:"E3E85868-DF7B-490B-B1AB-FB22525BB050"}
+],
+name:"GCimportepresupuesto",
+primaryDataSource:"db:/conexiongestioncomercialag/cofertas",
+typeid:22,
+uuid:"78C243BD-640A-4734-972E-784743E5A1BB"

@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroformpago",
+items:[
+{foreignColumnName:"codig_fp",primaryDataProviderID:"cfpa_cfa",typeid:23,uuid:"0BBA422E-C1B6-4C0F-BDA4-0D7744628A4A"}
+],
+name:"gctbfacturaproformacabecera_to_tbmaestroformpago",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturaproformacabecera",
+typeid:22,
+uuid:"04F7D620-0FDA-4BAD-8A8E-F453461453E3"

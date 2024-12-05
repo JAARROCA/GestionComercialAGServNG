@@ -1,0 +1,11 @@
+foreignDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+initialSort:"fechavencimiento asc",
+items:[
+{foreignColumnName:"situacion",operator:773,primaryDataProviderID:"LITERAL:'C'",typeid:23,uuid:"18755140-35DE-41F1-988A-2D8D804288DD"},
+{foreignColumnName:"cuentacontable",primaryDataProviderID:"cuentacontable",typeid:23,uuid:"4C1CD135-E64F-449A-AE12-E2CFF29BF6FC"},
+{foreignColumnName:"cobropago",primaryDataProviderID:"cobropago",typeid:23,uuid:"9DC63B8C-FF37-4FD9-9E68-274EA45BB27B"}
+],
+name:"gcccobrospagos_to_ccobrospagos",
+primaryDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+typeid:22,
+uuid:"A1B2E941-A7DD-46A9-9B54-D8F22BADFD35"

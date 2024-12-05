@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"idcliente",typeid:23,uuid:"24DB4070-68CA-42D3-90DC-02DF2BAF3BFB"}
+],
+name:"gctbmaestroclientesdirecfacturacion_to_tbmaestroclientes",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroclientesdirecfacturacion",
+typeid:22,
+uuid:"F8C18833-D73A-4898-95FA-D2D381EA89EE"

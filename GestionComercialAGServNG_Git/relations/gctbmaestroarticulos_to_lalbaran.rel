@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/lalbaran",
+items:[
+{foreignColumnName:"refm_lal",primaryDataProviderID:"codigo",typeid:23,uuid:"37D7542F-03E0-4AED-B086-6EF6440A85C1"}
+],
+name:"gctbmaestroarticulos_to_lalbaran",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+typeid:22,
+uuid:"87331945-1FEA-4184-ADE2-3DE37EBCDCE9"

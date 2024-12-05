@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/usuarios",
+items:[
+{foreignColumnName:"cod_us",primaryDataProviderID:"usu_cot",typeid:23,uuid:"5A6F65AE-FF13-4410-90FD-4E45348B97A1"}
+],
+name:"gccortraba_to_usuarios",
+primaryDataSource:"db:/conexiongestioncomercialag/cortraba",
+typeid:22,
+uuid:"CA857769-C2EA-4ED6-A075-9B2C20AED663"

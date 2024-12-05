@@ -1,0 +1,10 @@
+foreignDataSource:"db:/conexiongestioncomercialag/lalbaran",
+initialSort:"nup_lal asc, nli_lal asc",
+items:[
+{foreignColumnName:"clie_lal",primaryDataProviderID:"scopes.globals.AlbaranCliente",typeid:23,uuid:"979F5D14-3471-4179-BD72-DEEE9D86730D"},
+{foreignColumnName:"sifa_lal",operator:256,primaryDataProviderID:"LITERAL:0",typeid:23,uuid:"FDCDA71A-7BF9-4D3B-9A43-CFBFDB3116BA"}
+],
+name:"lalbaranpendfacturar",
+primaryDataSource:"db:/conexiongestioncomercialag/lalbaran",
+typeid:22,
+uuid:"74776726-1950-4E80-A007-07C2D44B17D7"

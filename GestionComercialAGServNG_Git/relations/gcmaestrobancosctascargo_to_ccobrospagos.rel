@@ -1,0 +1,11 @@
+foreignDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+initialSort:"fechavencimiento asc",
+items:[
+{foreignColumnName:"cuentabanco",primaryDataProviderID:"codigoctabanco",typeid:23,uuid:"290E6ADA-7AA8-46E3-949A-CF2681833DED"},
+{foreignColumnName:"situacion",operator:773,primaryDataProviderID:"LITERAL:'R'",typeid:23,uuid:"8AF99A45-6178-44F6-B867-519E74BD971B"},
+{foreignColumnName:"cobropago",primaryDataProviderID:"LITERAL:1",typeid:23,uuid:"D0AFEE07-0AB3-4C58-A79E-0666A01521FD"}
+],
+name:"gcmaestrobancosctascargo_to_ccobrospagos",
+primaryDataSource:"db:/conexiongestioncomercialag/maestrobancosctascargo",
+typeid:22,
+uuid:"4807172A-008C-4C65-A5A8-F263F347F04E"

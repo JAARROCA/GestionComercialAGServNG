@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbpedidocompralinea",
+items:[
+{foreignColumnName:"npedido",primaryDataProviderID:"npedido",typeid:23,uuid:"D5BFC7D0-8882-484E-8AFF-03E7CA987E1B"}
+],
+name:"GCtbpedidocompracabecera_to_tbpedidocompralinea",
+primaryDataSource:"db:/conexiongestioncomercialag/tbpedidocompracabecera",
+typeid:22,
+uuid:"73F314FD-6C2E-4910-8386-7BB12FC4E6BB"

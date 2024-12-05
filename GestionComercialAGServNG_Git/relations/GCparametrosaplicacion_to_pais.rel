@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/pais",
+items:[
+{foreignColumnName:"pai_iso2",primaryDataProviderID:"pais",typeid:23,uuid:"D03C57E7-5C1F-4668-9AF6-CECDF2CA1172"}
+],
+name:"GCparametrosaplicacion_to_pais",
+primaryDataSource:"db:/conexiongestioncomercialag/parametrosaplicacion",
+typeid:22,
+uuid:"F769107F-0ED9-4204-B541-1E99F7D326AA"

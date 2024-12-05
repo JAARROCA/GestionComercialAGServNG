@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbnotacabecera",
+initialSort:"eje_cfa desc, nup_cfa desc",
+items:[
+{foreignColumnName:"descclie_cfa",primaryDataProviderID:"descclie_cfa",typeid:23,uuid:"3244E94A-A53F-4188-8992-15B45C4191D9"}
+],
+name:"GCultimasnotas",
+primaryDataSource:"db:/conexiongestioncomercialag/tbnotacabecera",
+typeid:22,
+uuid:"1EBA2A03-05B9-44AB-B472-B047FAEF81CE"

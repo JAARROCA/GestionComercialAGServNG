@@ -1,0 +1,6 @@
+addEmptyValue:1,
+customValues:"NO FACTURADO|^\
+FACTURADO|F",
+name:"SituacionFraProforma",
+typeid:34,
+uuid:"4E47B147-BC9C-47CE-ACB3-33AC102B80E4"

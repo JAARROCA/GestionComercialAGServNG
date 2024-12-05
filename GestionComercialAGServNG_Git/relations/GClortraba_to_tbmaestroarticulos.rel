@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+items:[
+{foreignColumnName:"codigo",primaryDataProviderID:"refm_lot",typeid:23,uuid:"923D6E1F-DF77-48B8-8387-CAA0CF0C8D03"}
+],
+name:"GClortraba_to_tbmaestroarticulos",
+primaryDataSource:"db:/conexiongestioncomercialag/lortraba",
+typeid:22,
+uuid:"123BEFE0-6519-46EF-A49F-0CAAFCA94D10"

@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/pais",
+items:[
+{foreignColumnName:"pai_iso2",primaryDataProviderID:"pais",typeid:23,uuid:"CF2A010D-7AAF-4C4E-B1A5-40D4129D609F"}
+],
+name:"gctbmaestroagentes_to_pais",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroagentes",
+typeid:22,
+uuid:"35FEC239-24B8-449D-93A6-57BFAA22D771"

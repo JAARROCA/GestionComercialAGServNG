@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+items:[
+{
+dataProviderIDToAggregate:"importevencimiento",
+name:"SumaEfectos",
+type:4,
+typeid:40,
+uuid:"3259E43F-7ABE-4487-9BB9-E3BE1A2270C3"
+}
+],
+typeid:39,
+uuid:"0E90AA32-D33D-4ECD-9301-128DD4F57A6B"

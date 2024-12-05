@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/maestrobancosctascargo",
+items:[
+{foreignColumnName:"codigoctabanco",primaryDataProviderID:"cuentabanco",typeid:23,uuid:"B2FA2DBB-6492-48F3-8AD7-177F8FA8F6B7"}
+],
+name:"GCccobrospagos_to_maestrobancosctascargo",
+primaryDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+typeid:22,
+uuid:"D0992248-E94C-4C73-B823-F66588A73BE3"

@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Fichero CSV|0\
+Fichero XLSX|1",
+displayValueType:12,
+name:"Formatofichero",
+realValueType:4,
+typeid:34,
+uuid:"865062CF-DB52-44E1-9BA5-517D95A172F3"

@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"cuentacontable",typeid:23,uuid:"57BF5F0E-D670-47B9-AD76-F67E6A835C17"}
+],
+name:"gcccobrospagos_to_tbmaestroclientes",
+primaryDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+typeid:22,
+uuid:"68FFFE0A-CAED-4074-8A36-8FAC3938341F"

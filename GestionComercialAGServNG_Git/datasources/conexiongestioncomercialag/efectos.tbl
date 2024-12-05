@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/efectos",
+items:[
+{
+dataProviderIDToAggregate:"impo_ef",
+name:"sumefectos",
+type:4,
+typeid:40,
+uuid:"549C2E9D-D70D-469F-984B-5B5FA9D188FF"
+}
+],
+typeid:39,
+uuid:"165EEC7E-62B9-4B3E-AC5E-F831B8BAF6AB"

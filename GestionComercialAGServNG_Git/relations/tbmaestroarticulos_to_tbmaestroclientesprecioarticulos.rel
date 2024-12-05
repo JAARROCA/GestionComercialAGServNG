@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientesprecioarticulos",
+initialSort:"idarticulo asc, idcliente asc",
+items:[
+{foreignColumnName:"idarticulo",primaryDataProviderID:"codigo",typeid:23,uuid:"8197CBB8-29CD-4FC3-B6A5-590D7956F40C"}
+],
+name:"tbmaestroarticulos_to_tbmaestroclientesprecioarticulos",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+typeid:22,
+uuid:"FE9DF465-0F63-4B26-BF70-D1996BE7405C"

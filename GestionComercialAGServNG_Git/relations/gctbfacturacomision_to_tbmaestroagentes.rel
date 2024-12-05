@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroagentes",
+items:[
+{foreignColumnName:"idagente",primaryDataProviderID:"comisionista_cfa",typeid:23,uuid:"541F5C68-E581-4F39-8398-839EC9C2F4FF"}
+],
+name:"gctbfacturacomision_to_tbmaestroagentes",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacomision",
+typeid:22,
+uuid:"1555754B-0C66-4F9C-A184-8A2EE4061DE7"

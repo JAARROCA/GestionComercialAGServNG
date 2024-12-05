@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/lofertas",
+initialSort:"nup_lof asc, nli_lof asc",
+items:[
+{foreignColumnName:"nup_lof",primaryDataProviderID:"cod_cof",typeid:23,uuid:"E93462A7-7136-4935-9F86-7475F7D5F234"}
+],
+name:"GCcofertas_to_lofertas",
+primaryDataSource:"db:/conexiongestioncomercialag/cofertas",
+typeid:22,
+uuid:"8827DB6D-C044-4228-A58A-FA73B5884C3E"

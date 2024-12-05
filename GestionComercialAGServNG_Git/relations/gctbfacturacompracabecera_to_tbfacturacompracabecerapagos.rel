@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacompracabecerapagos",
+initialSort:"fecha_pag asc",
+items:[
+{foreignColumnName:"nup_pag",primaryDataProviderID:"nup_cfca",typeid:23,uuid:"B612571E-2531-47E8-9406-E49B35487BCC"},
+{foreignColumnName:"pro_pag",primaryDataProviderID:"pro_cfca",typeid:23,uuid:"F8215460-2682-4B37-AED0-C083E6FF2164"}
+],
+name:"gctbfacturacompracabecera_to_tbfacturacompracabecerapagos",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacompracabecera",
+typeid:22,
+uuid:"91D8B3AE-D7F9-44FE-B5C7-E94332EE4814"

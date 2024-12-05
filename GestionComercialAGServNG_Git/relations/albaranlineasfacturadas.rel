@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/lalbaran",
+items:[
+{foreignColumnName:"sifa_lal",operator:5,primaryDataProviderID:"LITERAL:0",typeid:23,uuid:"7D70DE5B-1DD5-4974-90B1-4C7D6CB264C5"},
+{foreignColumnName:"nup_lal",primaryDataProviderID:"cod_cal",typeid:23,uuid:"BE9D0356-68E3-4C5F-A503-0F4E96B3FD58"}
+],
+name:"albaranlineasfacturadas",
+primaryDataSource:"db:/conexiongestioncomercialag/calbaran",
+typeid:22,
+uuid:"CD2F86F0-17AA-44B9-AED8-C8353B46B62E"

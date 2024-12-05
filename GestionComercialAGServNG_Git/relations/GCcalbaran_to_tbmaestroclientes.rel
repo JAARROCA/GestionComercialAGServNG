@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"clie_cal",typeid:23,uuid:"3C9D3C9B-4956-4015-B570-3F4AB87848E7"}
+],
+name:"GCcalbaran_to_tbmaestroclientes",
+primaryDataSource:"db:/conexiongestioncomercialag/calbaran",
+typeid:22,
+uuid:"014A1690-567D-4866-B23B-8BC8FAD7F717"

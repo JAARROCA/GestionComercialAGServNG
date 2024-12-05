@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroformpago",
+items:[
+{foreignColumnName:"codig_fp",primaryDataProviderID:"formapago",typeid:23,uuid:"CCEC47FE-8DB9-4889-BE1F-B5619C630D7D"}
+],
+name:"GCccobrospagos_to_tbmaestroformpago",
+primaryDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+typeid:22,
+uuid:"DCF2091B-0C62-478B-8EC1-BCC40BE178EC"

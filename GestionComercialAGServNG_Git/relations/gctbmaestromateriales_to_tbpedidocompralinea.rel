@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbpedidocompralinea",
+items:[
+{foreignColumnName:"refpieza",primaryDataProviderID:"codigo",typeid:23,uuid:"3AF6D20B-E075-4D9B-8EC0-FFB5393082AB"}
+],
+name:"gctbmaestromateriales_to_tbpedidocompralinea",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestromateriales",
+typeid:22,
+uuid:"4CCE9D09-C017-4530-B85D-D3B5D54ED12F"

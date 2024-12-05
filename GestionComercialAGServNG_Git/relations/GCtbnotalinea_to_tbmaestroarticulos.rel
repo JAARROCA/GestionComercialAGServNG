@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+items:[
+{foreignColumnName:"codigo",primaryDataProviderID:"ref_lfa",typeid:23,uuid:"7A9D87B0-7C1C-414A-9DA0-836665FC7162"}
+],
+name:"GCtbnotalinea_to_tbmaestroarticulos",
+primaryDataSource:"db:/conexiongestioncomercialag/tbnotalinea",
+typeid:22,
+uuid:"B88A921D-68D0-45CC-A785-5600D622E168"

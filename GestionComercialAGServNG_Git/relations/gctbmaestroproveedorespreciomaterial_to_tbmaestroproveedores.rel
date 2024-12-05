@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+items:[
+{foreignColumnName:"codpro",primaryDataProviderID:"codpro",typeid:23,uuid:"0B7CDBDB-7542-45CF-8E4E-2F4D750E1B80"}
+],
+name:"gctbmaestroproveedorespreciomaterial_to_tbmaestroproveedores",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedorespreciomaterial",
+typeid:22,
+uuid:"6E12C4BF-E8E9-46AC-844B-E04F1978AC04"

@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroagentes",
+items:[
+{foreignColumnName:"idagente",primaryDataProviderID:"comisionista",typeid:23,uuid:"D8D20A1A-F7BD-4924-A510-E31AEA6E09A9"}
+],
+name:"gctbmaestroclientes_to_tbmaestroagentes",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+typeid:22,
+uuid:"A82A573A-0A59-47EC-B02B-B3EE9932291A"

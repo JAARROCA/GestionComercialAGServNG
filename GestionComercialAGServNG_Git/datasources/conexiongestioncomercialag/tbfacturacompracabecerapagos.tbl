@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/tbfacturacompracabecerapagos",
+items:[
+{
+dataProviderIDToAggregate:"impor_pag",
+name:"sumimporte",
+type:4,
+typeid:40,
+uuid:"5038C300-AF9E-41CB-9F7F-47C3305B7AF3"
+}
+],
+typeid:39,
+uuid:"F5E281C9-5A37-460C-8E00-F512112024BE"

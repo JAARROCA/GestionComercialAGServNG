@@ -1,0 +1,9 @@
+addEmptyValue:1,
+customValues:"Todos|T\
+Pendiente|^\
+Aceptado|A\
+No Aceptado|N\
+Facturado|F",
+name:"SituacionPresupuesto2",
+typeid:34,
+uuid:"D8E80E89-272D-4D82-8231-0926E5CD834B"

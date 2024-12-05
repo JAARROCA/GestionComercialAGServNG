@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientesdocumentos",
+items:[
+{foreignColumnName:"codcli",primaryDataProviderID:"idcliente",typeid:23,uuid:"D023CBD9-9C0F-4320-AEBE-F9B44239CF01"}
+],
+name:"gctbmaestroclientes_to_tbmaestroclientesdocumentos",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+typeid:22,
+uuid:"E842C486-B4FC-42A2-9F8D-1992BAB53720"

@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroformpago",
+items:[
+{foreignColumnName:"codig_fp",primaryDataProviderID:"cfpa_efc",typeid:23,uuid:"8713FB64-5180-4720-906A-97794B15B15E"}
+],
+name:"gcefectoscompras_to_tbmaestroformpago",
+primaryDataSource:"db:/conexiongestioncomercialag/efectoscompras",
+typeid:22,
+uuid:"1304FEAD-4BB5-47F9-A536-5C92FB4C15ED"

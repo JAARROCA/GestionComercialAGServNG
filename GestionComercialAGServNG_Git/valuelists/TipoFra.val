@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Factura Ordinaria|0\
+Factura Proforma|1",
+displayValueType:12,
+name:"TipoFra",
+realValueType:4,
+typeid:34,
+uuid:"F2A5357F-36A9-400A-BB9D-9246C61309AD"

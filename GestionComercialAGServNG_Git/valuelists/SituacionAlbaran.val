@@ -1,0 +1,6 @@
+addEmptyValue:1,
+customValues:"Pendiente de Facturar|^\
+Facturado|F",
+name:"SituacionAlbaran",
+typeid:34,
+uuid:"B93D4DB5-BA85-43D6-99F7-CEE41F8C764B"

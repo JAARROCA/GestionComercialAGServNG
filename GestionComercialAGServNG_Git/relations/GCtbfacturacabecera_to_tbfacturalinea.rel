@@ -1,0 +1,13 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturalinea",
+initialSort:"nli_lfa asc",
+items:[
+{foreignColumnName:"eje_lfa",primaryDataProviderID:"eje_cfa",typeid:23,uuid:"8A8D574E-5C36-4702-85D8-BC1682CD41A6"},
+{foreignColumnName:"ser_lfa",primaryDataProviderID:"ser_cfa",typeid:23,uuid:"D3210182-1B65-412D-8019-F0248B130C45"},
+{foreignColumnName:"nup_lfa",primaryDataProviderID:"nup_cfa",typeid:23,uuid:"D8B6C7C4-44D4-4BD8-A771-13E125DF1079"}
+],
+name:"GCtbfacturacabecera_to_tbfacturalinea",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+typeid:22,
+uuid:"0F040DCE-43CF-4792-A3B7-F93F81C1DB27"

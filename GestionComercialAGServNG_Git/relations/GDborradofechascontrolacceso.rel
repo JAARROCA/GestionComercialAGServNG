@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/controlacceso",
+items:[
+{foreignColumnName:"fechaconex",operator:3,primaryDataProviderID:"scopes.globals.GCFechaControlAcceso",typeid:23,uuid:"AEA5A182-AB41-41FB-801A-8875DB8E0808"}
+],
+name:"GDborradofechascontrolacceso",
+primaryDataSource:"db:/conexiongestioncomercialag/controlacceso",
+typeid:22,
+uuid:"F760271F-64B8-4AB6-9874-6F453C0F88A4"

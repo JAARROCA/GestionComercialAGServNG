@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/ccobrospagosimpresion",
+items:[
+{foreignColumnName:"usuario",primaryDataProviderID:"scopes.globals.GClogin_usuario",typeid:23,uuid:"B644343A-A824-4872-8783-D41CD38C9C14"}
+],
+name:"gcborradocobrospagosimpresion",
+primaryDataSource:"db:/conexiongestioncomercialag/ccobrospagosimpresion",
+typeid:22,
+uuid:"8AE7C9A0-DC98-4E2F-915F-962DD4291811"

@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/lalbaran",
+initialSort:"nup_lal desc, nli_lal asc",
+items:[
+{foreignColumnName:"clie_lal",primaryDataProviderID:"idcliente",typeid:23,uuid:"06C8C651-9DE0-4A4D-874B-16B3B86226B8"}
+],
+name:"gctbmaestroclientes_to_lalbaran",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+typeid:22,
+uuid:"A9F3E58C-8000-4F51-9AB5-36DE03803A7D"

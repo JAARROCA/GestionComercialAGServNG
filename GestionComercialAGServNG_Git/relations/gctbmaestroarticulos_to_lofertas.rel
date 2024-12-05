@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/lofertas",
+items:[
+{foreignColumnName:"refm_lof",primaryDataProviderID:"codigo",typeid:23,uuid:"86E0E916-C379-4A3C-99F8-60A4A28EB70F"}
+],
+name:"gctbmaestroarticulos_to_lofertas",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+typeid:22,
+uuid:"42345EB3-4390-4148-A169-F6862F41E4A2"

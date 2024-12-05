@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding=".stp/|medias/" kind="src" path=""/>
+	<buildpathentry exported="true" kind="prj" path="/ContaAGServ"/>
+	<buildpathentry exported="true" kind="prj" path="/svyCore"/>
+	<buildpathentry exported="true" kind="prj" path="/svyNavigation"/>
+	<buildpathentry exported="true" kind="prj" path="/svyNavigationUX"/>
+	<buildpathentry exported="true" kind="prj" path="/svySearch"/>
+	<buildpathentry exported="true" kind="prj" path="/svyUtils"/>
+	<buildpathentry exported="true" kind="prj" path="/svyUtils$Excel"/>
+	<buildpathentry exported="true" kind="prj" path="/svyUtils$NGClient"/>
+	<buildpathentry exported="true" kind="prj" path="/svyUtils$customDialogs"/>
+</buildpath>

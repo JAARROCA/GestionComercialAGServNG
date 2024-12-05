@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/ventasiva",
+items:[
+{foreignColumnName:"idusuario",primaryDataProviderID:"scopes.globals.GClogin_usuario",typeid:23,uuid:"2A0FCB19-19C0-4821-9C96-7F7A8DF8DA48"}
+],
+name:"ventasiva_to_ventasiva",
+primaryDataSource:"db:/conexiongestioncomercialag/ventasiva",
+typeid:22,
+uuid:"48239122-6DD8-41E2-8BCC-20E55111CAD5"

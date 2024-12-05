@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/usuarios",
+items:[
+{foreignColumnName:"cod_us",primaryDataProviderID:"nusu_ms",typeid:23,uuid:"5A3A8D31-6330-4837-936C-7F78EE4190AE"}
+],
+name:"moviarti_to_usuarios",
+primaryDataSource:"db:/conexiongestioncomercialag/moviarti",
+typeid:22,
+uuid:"79FDC15D-FEE3-4713-A99F-64E833C34E7A"

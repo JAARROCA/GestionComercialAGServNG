@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbpetofertacompralinea",
+initialSort:"linea asc",
+items:[
+{foreignColumnName:"npetoferta",primaryDataProviderID:"npetoferta",typeid:23,uuid:"9AED9082-07FE-4500-9D66-82F089B0112D"}
+],
+name:"GCtbpetofertacompracabecera_to_tbpetofertacompralinea",
+primaryDataSource:"db:/conexiongestioncomercialag/tbpetofertacompracabecera",
+typeid:22,
+uuid:"5FC15367-A7D6-4B71-B02B-4D37F1A44E70"

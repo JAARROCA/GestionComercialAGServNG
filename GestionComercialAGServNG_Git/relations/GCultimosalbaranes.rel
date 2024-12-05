@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/albapro",
+initialSort:"fech_ap desc",
+items:[
+{foreignColumnName:"pro_ap",primaryDataProviderID:"pro_ap",typeid:23,uuid:"C6499490-9248-4825-BAB5-07CB689CF6B5"}
+],
+name:"GCultimosalbaranes",
+primaryDataSource:"db:/conexiongestioncomercialag/albapro",
+typeid:22,
+uuid:"31F0D97D-3FE5-4B02-B3DA-A46FC3BEF396"

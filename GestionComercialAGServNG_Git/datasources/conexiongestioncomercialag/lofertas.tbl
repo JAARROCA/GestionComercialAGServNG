@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/lofertas",
+items:[
+{
+dataProviderIDToAggregate:"impor_lof",
+name:"sum_impor_lof",
+type:4,
+typeid:40,
+uuid:"E9B06224-098A-4CD1-8A5A-20EDB44BA087"
+}
+],
+typeid:39,
+uuid:"98516267-F077-4A8C-9334-7FF8A930B86E"

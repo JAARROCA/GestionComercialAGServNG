@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Por Nº Presupuesto|0\
+Alfabético Cliente|1\
+Por Referencia Cliente|2\
+Por Fecha Presupuesto|3",
+name:"CriteriosPresupuestos",
+typeid:34,
+uuid:"BFCF5EC3-18C4-4176-96E7-6C746A57A17E"

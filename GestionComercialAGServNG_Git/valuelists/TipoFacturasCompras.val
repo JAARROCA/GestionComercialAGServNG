@@ -1,0 +1,10 @@
+addEmptyValue:1,
+customValues:"Fras. Ordinarias|1\
+Fras. Comunitarias|2\
+Fras. de Importación|3\
+Fras. de Exportación|4\
+Fras. de Bienes de Inversión|5\
+Fras. de Agencia de Viajes|6",
+name:"TipoFacturasCompras",
+typeid:34,
+uuid:"8515E0C9-A6E7-439B-881A-423A13940556"

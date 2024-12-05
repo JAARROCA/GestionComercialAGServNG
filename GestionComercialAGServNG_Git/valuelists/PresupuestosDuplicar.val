@@ -1,0 +1,13 @@
+customProperties:"lazyLoading:false",
+dataProviderID1:"id",
+dataProviderID2:"list_display2",
+dataProviderID3:"fecha_cof",
+dataSource:"db:/conexiongestioncomercialag/cofertas",
+name:"PresupuestosDuplicar",
+returnDataProviders:1,
+separator:" |",
+showDataProviders:2,
+sortOptions:"cod_cof desc",
+typeid:34,
+uuid:"E86077C8-DD35-4751-B324-44974747ABD2",
+valueListType:1

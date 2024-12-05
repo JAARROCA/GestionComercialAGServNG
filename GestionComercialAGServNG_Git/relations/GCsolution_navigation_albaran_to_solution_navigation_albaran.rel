@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/solution_navigation_albaran",
+items:[
+{foreignColumnName:"solution_id",primaryDataProviderID:"scopes.globals.GCthisSolution_ID",typeid:23,uuid:"B0AFD366-B538-4E88-8A26-ACA3B3DFFA43"}
+],
+name:"GCsolution_navigation_albaran_to_solution_navigation_albaran",
+primaryDataSource:"db:/conexiongestioncomercialag/solution_navigation_albaran",
+typeid:22,
+uuid:"06AF46D7-9D6E-4AD6-A992-537F91DE41E7"

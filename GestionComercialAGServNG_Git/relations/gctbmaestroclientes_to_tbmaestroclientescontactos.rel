@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientescontactos",
+initialSort:"nombre asc",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"idcliente",typeid:23,uuid:"FFE4AB6C-A82A-4129-BCCC-3C24ABF3366D"}
+],
+name:"gctbmaestroclientes_to_tbmaestroclientescontactos",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+typeid:22,
+uuid:"BB1BB40F-D464-4EDA-948E-7490416A4EEC"

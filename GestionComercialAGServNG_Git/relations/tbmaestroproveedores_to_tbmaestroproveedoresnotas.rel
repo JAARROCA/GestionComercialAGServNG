@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedoresnotas",
+items:[
+{foreignColumnName:"codpro",primaryDataProviderID:"codpro",typeid:23,uuid:"09AED86B-DE1D-49F1-81EC-A18C4300EDC7"}
+],
+name:"tbmaestroproveedores_to_tbmaestroproveedoresnotas",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+typeid:22,
+uuid:"3FB7FCCC-2E2C-46F3-A356-370BF34DED94"

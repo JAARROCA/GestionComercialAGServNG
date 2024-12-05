@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/parametrosaplicacion",
+items:[
+{foreignColumnName:"nºempresa",primaryDataProviderID:"LITERAL:1",typeid:23,uuid:"FDB38BD1-4E0A-4E46-A02C-B861CCA77D3A"}
+],
+name:"gcparametrosaplicacion_to_parametrosaplicacion",
+primaryDataSource:"db:/conexiongestioncomercialag/parametrosaplicacion",
+typeid:22,
+uuid:"97C77462-66AB-4270-A047-AF0C2BCAE711"

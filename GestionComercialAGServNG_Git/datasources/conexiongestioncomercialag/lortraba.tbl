@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/lortraba",
+items:[
+{
+dataProviderIDToAggregate:"impor_lot",
+name:"sum_impor_lot",
+type:4,
+typeid:40,
+uuid:"3C3E69C9-7280-41F3-82D0-960A630859A5"
+}
+],
+typeid:39,
+uuid:"CB016FF3-89A7-4735-9B57-F206A6C0D0CF"

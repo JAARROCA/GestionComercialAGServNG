@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacompralinea",
+initialSort:"nli_lfca asc",
+items:[
+{foreignColumnName:"nup_lfca",primaryDataProviderID:"nup_cfca",typeid:23,uuid:"936CC6CC-E78E-4C32-82B1-ABED0DBA7E56"},
+{foreignColumnName:"pro_lfca",primaryDataProviderID:"pro_cfca",typeid:23,uuid:"BBDE4BCA-B790-4EFA-A9EA-C2F43932AE93"}
+],
+name:"GCtbfacturacompracabecera_to_tbfacturacompralinea",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacompracabecera",
+typeid:22,
+uuid:"E0699BD9-5C41-458D-ADEC-A863A91C6272"

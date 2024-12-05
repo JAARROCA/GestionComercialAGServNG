@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"clie_lof",typeid:23,uuid:"27724C77-BBF1-41EF-A2E7-5B57DBCFF821"}
+],
+name:"GClofertas_to_tbmaestroclientes",
+primaryDataSource:"db:/conexiongestioncomercialag/lofertas",
+typeid:22,
+uuid:"1EB930E5-AE34-4E38-A57B-2D7312B05E1A"

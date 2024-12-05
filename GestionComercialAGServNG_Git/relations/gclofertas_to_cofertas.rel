@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/cofertas",
+items:[
+{foreignColumnName:"cod_cof",primaryDataProviderID:"nup_lof",typeid:23,uuid:"B8373A00-A841-4D65-B341-44D0D760AA06"}
+],
+name:"gclofertas_to_cofertas",
+primaryDataSource:"db:/conexiongestioncomercialag/lofertas",
+typeid:22,
+uuid:"76A41B71-8577-4902-93B6-2BD939D7C572"

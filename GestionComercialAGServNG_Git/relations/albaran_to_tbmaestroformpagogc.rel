@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroformpago",
+items:[
+{foreignColumnName:"codig_fp",primaryDataProviderID:"cfpa_cal",typeid:23,uuid:"CAA2AEA6-8F0F-40B3-AF54-842CA057DD90"}
+],
+name:"albaran_to_tbmaestroformpagogc",
+primaryDataSource:"db:/conexiongestioncomercialag/calbaran",
+typeid:22,
+uuid:"1A3DB1CD-1A58-4F18-B9B7-D0AF3227C15F"

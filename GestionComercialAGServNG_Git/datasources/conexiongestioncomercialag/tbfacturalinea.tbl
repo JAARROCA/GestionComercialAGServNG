@@ -1,0 +1,12 @@
+dataSource:"db:/conexiongestioncomercialag/tbfacturalinea",
+items:[
+{
+dataProviderIDToAggregate:"impor_lfa",
+name:"sum_impor_lfa",
+type:4,
+typeid:40,
+uuid:"3AF860E9-D844-4D0B-86CF-A14CEEC21811"
+}
+],
+typeid:39,
+uuid:"954EF1D0-F6CB-4E4D-B2CA-9A00D4518153"

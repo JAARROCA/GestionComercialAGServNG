@@ -1,0 +1,13 @@
+addEmptyValue:1,
+dataProviderID1:"id",
+dataProviderID2:"codigo",
+dataProviderID3:"descripcion",
+dataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+name:"ListaArticulos",
+returnDataProviders:1,
+separator:"  - ",
+showDataProviders:6,
+sortOptions:"codigo asc",
+typeid:34,
+uuid:"9868B628-DC82-4E1C-BF72-2DE5850A0392",
+valueListType:1

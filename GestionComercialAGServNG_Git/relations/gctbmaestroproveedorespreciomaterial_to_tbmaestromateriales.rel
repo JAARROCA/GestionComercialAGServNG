@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestromateriales",
+items:[
+{foreignColumnName:"codigo",primaryDataProviderID:"idarticulo",typeid:23,uuid:"AE6761C2-DF7C-473D-AE40-7E2BFB4C2E40"}
+],
+name:"gctbmaestroproveedorespreciomaterial_to_tbmaestromateriales",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedorespreciomaterial",
+typeid:22,
+uuid:"B6278904-5D1B-455B-8CA0-C637E974D3B4"

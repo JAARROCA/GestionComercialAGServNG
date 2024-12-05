@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"FICHERO EXCEL|0\
+FICHERO TEXTO(CSV)|1",
+displayValueType:12,
+name:"FicheroSalidaGC",
+realValueType:4,
+typeid:34,
+uuid:"D077FB8E-AD63-4AF9-B653-DD555F3A6708"

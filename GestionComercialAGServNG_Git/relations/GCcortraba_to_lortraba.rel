@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/lortraba",
+items:[
+{foreignColumnName:"nup_lot",primaryDataProviderID:"cod_cot",typeid:23,uuid:"4DBE456D-A06B-4354-90CD-E25E0718EA15"}
+],
+name:"GCcortraba_to_lortraba",
+primaryDataSource:"db:/conexiongestioncomercialag/cortraba",
+typeid:22,
+uuid:"333032B9-E908-4328-B9ED-4D126007CA7E"

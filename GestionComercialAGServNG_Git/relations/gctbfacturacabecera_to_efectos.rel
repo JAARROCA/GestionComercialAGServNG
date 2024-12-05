@@ -1,0 +1,13 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/efectos",
+initialSort:"eje_ef asc, ser_ef asc, nup_ef asc, nli_ef asc",
+items:[
+{foreignColumnName:"eje_ef",primaryDataProviderID:"eje_cfa",typeid:23,uuid:"9AAF328C-214F-4E94-B2EE-85329E467F1E"},
+{foreignColumnName:"ser_ef",primaryDataProviderID:"ser_cfa",typeid:23,uuid:"D3504615-6923-4955-973D-11135B173710"},
+{foreignColumnName:"nup_ef",primaryDataProviderID:"nup_cfa",typeid:23,uuid:"E0EB9610-6535-4C95-AE8E-7330E054F5CE"}
+],
+name:"gctbfacturacabecera_to_efectos",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+typeid:22,
+uuid:"46F79E46-80A2-4599-A325-E3529656935B"

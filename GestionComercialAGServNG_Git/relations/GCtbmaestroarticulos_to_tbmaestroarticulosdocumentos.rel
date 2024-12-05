@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulosdocumentos",
+items:[
+{foreignColumnName:"codpieza",primaryDataProviderID:"codigo",typeid:23,uuid:"9002E4AA-5316-4FEF-BECE-A22E3D23BC64"}
+],
+name:"GCtbmaestroarticulos_to_tbmaestroarticulosdocumentos",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+typeid:22,
+uuid:"E0842EB6-035E-4D9E-95CA-3012B1F32AF4"

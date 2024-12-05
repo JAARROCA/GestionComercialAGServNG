@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Por Nº Albarán|0\
+Alfabético Cliente|1\
+Por Referencia Cliente|2\
+Por Fecha Albarán|3",
+name:"CriteriosAlbaran",
+typeid:34,
+uuid:"793475A8-5D96-4E5F-8A5E-E24A39583C23"

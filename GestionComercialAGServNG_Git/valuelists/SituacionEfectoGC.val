@@ -1,0 +1,10 @@
+addEmptyValue:1,
+customValues:"Pendiente Liquidar|^\
+S - Seleccionado|S\
+R - Remesado|R\
+C - Contabilizado|C",
+displayValueType:12,
+name:"SituacionEfectoGC",
+realValueType:12,
+typeid:34,
+uuid:"ADEFF2C3-A506-46A7-A4C5-4FBD1E119256"

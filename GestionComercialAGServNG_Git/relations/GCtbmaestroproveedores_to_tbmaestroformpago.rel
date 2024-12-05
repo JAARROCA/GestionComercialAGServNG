@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroformpago",
+items:[
+{foreignColumnName:"codig_fp",primaryDataProviderID:"codigfp",typeid:23,uuid:"C0B95910-8860-4B04-AE3A-B9110C302F54"}
+],
+name:"GCtbmaestroproveedores_to_tbmaestroformpago",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+typeid:22,
+uuid:"92E96452-477C-448F-BDB8-21B67DB5BAF6"

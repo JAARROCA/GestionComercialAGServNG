@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/usuarios",
+items:[
+{foreignColumnName:"cod_us",primaryDataProviderID:"usu_cfa",typeid:23,uuid:"68294FB6-59D5-4EF9-A1D3-6A9BBDA83218"}
+],
+name:"gctbfacturacabecera_to_usuarios",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+typeid:22,
+uuid:"5C9F60FC-DA85-41B6-A3C0-5B96D47DC276"

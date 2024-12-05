@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/calbaran",
+items:[
+{foreignColumnName:"cod_cal",primaryDataProviderID:"nup_lal",typeid:23,uuid:"6FB59195-7F1D-4AC5-A35C-F5E603C19C2B"}
+],
+name:"gclalbaran_to_calbaran",
+primaryDataSource:"db:/conexiongestioncomercialag/lalbaran",
+typeid:22,
+uuid:"4D7E7738-AD4B-443A-8449-43C3D6D0BB9E"

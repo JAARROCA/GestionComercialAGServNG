@@ -1,0 +1,9 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+items:[
+{foreignColumnName:"codpro",primaryDataProviderID:"cuentacontable",typeid:23,uuid:"F7BD3F56-AE51-4E69-BA8F-CAFD4EC6413A"}
+],
+name:"gcccobrospagos_to_tbmaestroproveedores",
+primaryDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+typeid:22,
+uuid:"DFBC3234-4375-4388-A3F3-11BEFD033A68"

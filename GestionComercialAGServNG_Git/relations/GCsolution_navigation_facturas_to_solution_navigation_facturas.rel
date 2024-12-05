@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/solution_navigation_facturas",
+items:[
+{foreignColumnName:"solution_id",primaryDataProviderID:"scopes.globals.GCthisSolution_ID",typeid:23,uuid:"9F568A20-D259-4A4A-9E2C-6C0F6D1D005A"}
+],
+name:"GCsolution_navigation_facturas_to_solution_navigation_facturas",
+primaryDataSource:"db:/conexiongestioncomercialag/solution_navigation_facturas",
+typeid:22,
+uuid:"E1C6C350-60AF-4812-96BE-7184D6DB503B"

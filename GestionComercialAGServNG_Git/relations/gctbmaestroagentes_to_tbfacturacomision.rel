@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacomision",
+initialSort:"gctbfacturacomision_to_tbfacturacabecera.fecha_cfa asc",
+items:[
+{foreignColumnName:"comisionista_cfa",primaryDataProviderID:"idagente",typeid:23,uuid:"FB212EE7-1CEC-4F96-A095-AA4B06ECE16A"}
+],
+name:"gctbmaestroagentes_to_tbfacturacomision",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroagentes",
+typeid:22,
+uuid:"4F99169D-571B-4739-8CFB-A6037611BC19"

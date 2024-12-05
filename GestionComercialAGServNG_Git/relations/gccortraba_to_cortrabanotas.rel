@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/cortrabanotas",
+items:[
+{foreignColumnName:"cod_cot",primaryDataProviderID:"cod_cot",typeid:23,uuid:"AFA51CEB-4BFA-4837-AD3E-71E2344A60A3"}
+],
+name:"gccortraba_to_cortrabanotas",
+primaryDataSource:"db:/conexiongestioncomercialag/cortraba",
+typeid:22,
+uuid:"83783659-45E8-4620-AA58-923226F64272"

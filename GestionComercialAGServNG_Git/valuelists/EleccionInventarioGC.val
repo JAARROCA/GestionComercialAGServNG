@@ -1,0 +1,6 @@
+addEmptyValue:1,
+customValues:"Sólo los que tienen existencias > 0|0\
+Ref. con Movimientos|1",
+name:"EleccionInventarioGC",
+typeid:34,
+uuid:"502B3F89-AD7A-4AEA-A429-5C1257634F42"

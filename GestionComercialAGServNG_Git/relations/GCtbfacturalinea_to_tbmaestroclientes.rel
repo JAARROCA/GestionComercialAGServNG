@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"clie_lfa",typeid:23,uuid:"627A68AF-58D7-4152-B390-81AE3F7B8469"}
+],
+name:"GCtbfacturalinea_to_tbmaestroclientes",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturalinea",
+typeid:22,
+uuid:"65B5911B-F38B-4C72-BFDE-9242756583AE"

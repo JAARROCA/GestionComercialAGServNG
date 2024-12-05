@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestrofamila",
+items:[
+{foreignColumnName:"idfamilia",primaryDataProviderID:"familia",typeid:23,uuid:"F7EB0D79-56E0-4519-974E-EA5E6648DF4E"}
+],
+name:"GCtbmaestroarticulos_to_tbmaestrofamila",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+typeid:22,
+uuid:"5E7DA684-A92D-494D-9D6D-40CE82F52639"

@@ -1,0 +1,9 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientesdocumentos",
+items:[
+{foreignColumnName:"codcli",primaryDataProviderID:"scopes.globals.COD",typeid:23,uuid:"F1B7E9CC-813F-49C9-9190-655D932F836D"}
+],
+name:"clientes_docu",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroclientesdocumentos",
+typeid:22,
+uuid:"9ABD1459-EA6D-4E27-BAF0-897C9EAD1DFF"

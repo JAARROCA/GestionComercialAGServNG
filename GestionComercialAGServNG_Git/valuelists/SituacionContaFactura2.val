@@ -1,0 +1,7 @@
+addEmptyValue:1,
+customValues:"TODAS|T\
+NO CONTABILIZADA|^\
+CONTABILIZADA|C",
+name:"SituacionContaFactura2",
+typeid:34,
+uuid:"41A80442-4C53-40AA-856A-ADEFDA412271"

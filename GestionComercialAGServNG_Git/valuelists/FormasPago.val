@@ -1,0 +1,11 @@
+dataProviderID1:"codig_fp",
+dataProviderID2:"denom_fp",
+dataSource:"db:/conexiongestioncomercialag/tbmaestroformpago",
+name:"FormasPago",
+returnDataProviders:1,
+separator:"  - ",
+showDataProviders:3,
+sortOptions:"codig_fp asc",
+typeid:34,
+uuid:"C860FDA9-B74A-42D1-9CD8-96FF4C212C55",
+valueListType:1

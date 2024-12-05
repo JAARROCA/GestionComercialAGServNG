@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/moviarti",
+items:[
+{foreignColumnName:"cod_ms",primaryDataProviderID:"cod_ms",typeid:23,uuid:"9EAACA3D-CE80-4FF3-881E-49FCFE6C40F0"}
+],
+name:"ultimosmovimientos",
+primaryDataSource:"db:/conexiongestioncomercialag/moviarti",
+typeid:22,
+uuid:"51FFC7B8-B8EB-4697-A717-0BE61C7C4AA2"

@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacomision",
+items:[
+{foreignColumnName:"ser_cfa",primaryDataProviderID:"ser_cfa",typeid:23,uuid:"4C539B92-0BE0-47EF-A682-BC4E0BA99A2E"},
+{foreignColumnName:"eje_cfa",primaryDataProviderID:"eje_cfa",typeid:23,uuid:"6F517485-0515-4F8C-AC07-74DEABAC55FA"},
+{foreignColumnName:"nup_cfa",primaryDataProviderID:"nup_cfa",typeid:23,uuid:"7D6D22A0-AC0C-44E8-9275-583157AD334C"}
+],
+name:"gctbfacturacabecera_to_tbfacturacomision",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+typeid:22,
+uuid:"DD3D0E49-F426-4A9A-B2C2-3CD0ECC84090"

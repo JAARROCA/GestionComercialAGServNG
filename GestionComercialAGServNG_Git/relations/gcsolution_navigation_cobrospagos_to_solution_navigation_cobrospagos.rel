@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/solution_navigation_gccobrospago",
+items:[
+{foreignColumnName:"solution_id",primaryDataProviderID:"scopes.globals.GCthisSolution_ID",typeid:23,uuid:"EAADAEF8-5CBF-4AD4-87E8-A2012FA06CB5"}
+],
+name:"gcsolution_navigation_cobrospagos_to_solution_navigation_cobrospagos",
+primaryDataSource:"db:/conexiongestioncomercialag/solution_navigation_gccobrospago",
+typeid:22,
+uuid:"A9A91408-4FD0-47C6-A693-2CE57CE7B4E9"

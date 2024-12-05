@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestrotipoiva",
+initialSort:"factor desc",
+items:[
+{foreignColumnName:"factor",primaryDataProviderID:"tipoiva",typeid:23,uuid:"AC93ED37-DCB6-44D0-BD61-24C1376CB071"}
+],
+name:"GCtbmaestroclientes_to_tbmaestrotipoiva",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+typeid:22,
+uuid:"DBF2BCBC-5C5D-4595-81F3-60FDA9CD281F"

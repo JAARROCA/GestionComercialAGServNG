@@ -1,0 +1,13 @@
+customProperties:"lazyLoading:false",
+dataProviderID1:"unidade_id",
+dataProviderID2:"desc_uni",
+dataSource:"db:/conexiongestioncomercialag/tbmaestrounidades",
+displayValueType:12,
+name:"UnidMedida",
+realValueType:12,
+returnDataProviders:1,
+showDataProviders:2,
+sortOptions:"unidade_id asc",
+typeid:34,
+uuid:"789D329F-7791-469E-BA5F-6CC0AF88AF49",
+valueListType:1

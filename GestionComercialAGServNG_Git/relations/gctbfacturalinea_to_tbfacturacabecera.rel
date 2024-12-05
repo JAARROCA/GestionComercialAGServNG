@@ -1,0 +1,10 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+items:[
+{foreignColumnName:"ser_cfa",primaryDataProviderID:"ser_lfa",typeid:23,uuid:"26C312FD-04CB-4010-8C86-B867C6140A92"},
+{foreignColumnName:"eje_cfa",primaryDataProviderID:"eje_lfa",typeid:23,uuid:"A1C6EE0F-1A0C-4C66-8F85-139BD53EAF63"},
+{foreignColumnName:"nup_cfa",primaryDataProviderID:"nup_lfa",typeid:23,uuid:"C6AB280E-714F-435F-8C21-EFF071909210"}
+],
+name:"gctbfacturalinea_to_tbfacturacabecera",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturalinea",
+typeid:22,
+uuid:"9D602707-2B8C-4FBE-90D4-35AD6183CB83"

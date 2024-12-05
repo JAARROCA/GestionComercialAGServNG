@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedorespreciomaterial",
+items:[
+{foreignColumnName:"idarticulo",primaryDataProviderID:"refa_lap",typeid:23,uuid:"6F92A1EA-676B-40A0-9014-9BBFD77140D8"},
+{foreignColumnName:"codpro",primaryDataProviderID:"prov_lap",typeid:23,uuid:"797876D2-6C06-417A-8A2B-D773B5C69B92"}
+],
+name:"gclalbapro_to_tbmaestroproveedorespreciomaterial",
+primaryDataSource:"db:/conexiongestioncomercialag/lalbapro",
+typeid:22,
+uuid:"3E08B954-DF1D-4915-82CA-032DB0EB3014"

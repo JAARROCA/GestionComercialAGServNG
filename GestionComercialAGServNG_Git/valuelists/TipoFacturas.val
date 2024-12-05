@@ -1,0 +1,10 @@
+addEmptyValue:1,
+customValues:"Factura Venta|\
+Factura de Abono|A\
+Factura de Cargo|C\
+Factura Rectificativa|R",
+displayValueType:12,
+name:"TipoFacturas",
+realValueType:12,
+typeid:34,
+uuid:"B3DA0BF6-54D5-4FDA-8292-874A5613BA98"

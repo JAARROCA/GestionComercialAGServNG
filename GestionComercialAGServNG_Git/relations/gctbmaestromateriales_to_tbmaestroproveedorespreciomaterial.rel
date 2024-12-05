@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedorespreciomaterial",
+initialSort:"idarticulo asc, codpro asc",
+items:[
+{foreignColumnName:"idarticulo",primaryDataProviderID:"codigo",typeid:23,uuid:"B4A34ACB-7F5C-49ED-AF81-0E353DE4B8A5"}
+],
+name:"gctbmaestromateriales_to_tbmaestroproveedorespreciomaterial",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestromateriales",
+typeid:22,
+uuid:"D12A0ADF-7F4D-41DB-B6C0-77E48B0CCFB4"

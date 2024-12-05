@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"clie_cfa",typeid:23,uuid:"5546DB4C-3684-46C1-A9ED-C39A5895EDA1"}
+],
+name:"GCtbnotacabecera_to_tbmaestroclientes",
+primaryDataSource:"db:/conexiongestioncomercialag/tbnotacabecera",
+typeid:22,
+uuid:"69643E78-3917-4A9A-A013-8DE05FB7729D"

@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Por Nº Pedido|0\
+Alfabético Cliente|1\
+Por Referencia Cliente|2\
+Por Fecha Pedido|3",
+name:"CriteriosPedidos",
+typeid:34,
+uuid:"934D76DE-2B0E-481E-A15F-FDA880886758"

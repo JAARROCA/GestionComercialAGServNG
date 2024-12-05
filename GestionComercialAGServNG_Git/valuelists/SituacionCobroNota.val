@@ -1,0 +1,7 @@
+addEmptyValue:1,
+customValues:"TODAS|T\
+NO COBRADA|^\
+COBRADA|C",
+name:"SituacionCobroNota",
+typeid:34,
+uuid:"A7F5E948-317D-4039-82CE-F411567CAB68"

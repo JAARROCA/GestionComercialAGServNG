@@ -1,0 +1,13 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacabeceracobros",
+initialSort:"fecha_cob asc, linea_cob asc",
+items:[
+{foreignColumnName:"nup_cob",primaryDataProviderID:"nup_cfa",typeid:23,uuid:"903EC352-7F71-4C9D-87FF-FF29B00D05ED"},
+{foreignColumnName:"ser_cob",primaryDataProviderID:"ser_cfa",typeid:23,uuid:"B0A23B13-79CE-4112-B6C6-06D0120548F8"},
+{foreignColumnName:"eje_cob",primaryDataProviderID:"eje_cfa",typeid:23,uuid:"C49263B6-51E0-4688-9E50-806481C7F208"}
+],
+name:"gctbfacturacabecera_to_tbfacturacabeceracobros",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+typeid:22,
+uuid:"35F0E92A-F06D-4E14-9304-F98A66548E23"

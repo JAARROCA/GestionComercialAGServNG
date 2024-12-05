@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+items:[
+{foreignColumnName:"codigo",primaryDataProviderID:"cod_ms",typeid:23,uuid:"957BA130-A688-4141-A9EB-F2DCF187ACBE"}
+],
+name:"moviarti_to_tbmaestroarticulos",
+primaryDataSource:"db:/conexiongestioncomercialag/moviarti",
+typeid:22,
+uuid:"0881A79A-04D5-4099-A16C-AE38B6FB807A"

@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbpedidocompralinea",
+items:[
+{foreignColumnName:"npedido",primaryDataProviderID:"nupc_lap",typeid:23,uuid:"DC4B4441-CD07-444A-95D2-A2ACE2C32B81"},
+{foreignColumnName:"npedidolinea",primaryDataProviderID:"lipc_lap",typeid:23,uuid:"DD4EC00C-1C79-4C7C-BB8A-B6BE5051CCE0"}
+],
+name:"GClalbapro_to_tbpedidocompralinea",
+primaryDataSource:"db:/conexiongestioncomercialag/lalbapro",
+typeid:22,
+uuid:"AAA57800-7EE1-4C28-90EA-CEE2B887FD2E"

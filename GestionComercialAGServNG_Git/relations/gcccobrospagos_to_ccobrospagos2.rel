@@ -1,0 +1,12 @@
+foreignDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+initialSort:"fechavencimiento asc, cuentacontable asc",
+items:[
+{foreignColumnName:"cobropago",primaryDataProviderID:"scopes.globals.CobroPago",typeid:23,uuid:"033B327E-DD01-43FB-9424-ED7CA40E1C53"},
+{foreignColumnName:"fechavencimiento",operator:3,primaryDataProviderID:"scopes.globals.HastaFecha",typeid:23,uuid:"163576C6-9DF9-4746-B775-A606221948B4"},
+{foreignColumnName:"fechavencimiento",operator:4,primaryDataProviderID:"scopes.globals.DesdeFecha",typeid:23,uuid:"35BBD70D-E229-43F6-9E71-99FFCF682C34"},
+{foreignColumnName:"situacion",operator:256,primaryDataProviderID:"LITERAL:' '",typeid:23,uuid:"FAF1A661-EC90-46E3-AB67-648F0120A7FA"}
+],
+name:"gcccobrospagos_to_ccobrospagos2",
+primaryDataSource:"db:/conexiongestioncomercialag/ccobrospagos",
+typeid:22,
+uuid:"A6F85168-F796-4862-84F3-0FE5610D439A"

@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientesvacaciones",
+initialSort:"nperiodo asc",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"idcliente",typeid:23,uuid:"70BADBF9-A828-4510-A97B-391B8D0ACD86"}
+],
+name:"gctbmaestroclientes_to_tbmaestroclientesvacaciones",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+typeid:22,
+uuid:"D27FD4F1-3F72-4D6D-A98F-9313FBAB496F"

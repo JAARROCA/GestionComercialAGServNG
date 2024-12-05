@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroclientes",
+items:[
+{foreignColumnName:"idcliente",primaryDataProviderID:"clie_lot",typeid:23,uuid:"6B3E4685-4BF1-428E-B422-4EC91A7AFD19"}
+],
+name:"GClortraba_to_tbmaestroclientes",
+primaryDataSource:"db:/conexiongestioncomercialag/lortraba",
+typeid:22,
+uuid:"37366875-61DC-4048-9F54-86579287712F"

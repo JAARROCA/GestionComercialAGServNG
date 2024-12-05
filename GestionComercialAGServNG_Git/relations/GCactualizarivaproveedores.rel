@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+items:[
+{foreignColumnName:"porciva",primaryDataProviderID:"scopes.globals.GCTipoIvaAnterior",typeid:23,uuid:"3BB4EE36-FCB3-4138-9DBC-3519B715854B"}
+],
+name:"GCactualizarivaproveedores",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+typeid:22,
+uuid:"0CA5174E-CE8A-442F-93AB-FB1594213B0F"

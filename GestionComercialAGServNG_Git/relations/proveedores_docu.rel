@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedoresdocumentos",
+items:[
+{foreignColumnName:"codpro",primaryDataProviderID:"scopes.globals.COD",typeid:23,uuid:"C502AB61-9D71-447B-A168-406F77A1D07A"}
+],
+name:"proveedores_docu",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedoresdocumentos",
+typeid:22,
+uuid:"FD7DE2BA-9E48-4D89-8749-30E247249EB6"

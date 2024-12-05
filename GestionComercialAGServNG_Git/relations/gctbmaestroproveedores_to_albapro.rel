@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/albapro",
+items:[
+{foreignColumnName:"pro_ap",primaryDataProviderID:"codpro",typeid:23,uuid:"7CD1B3C1-E5CF-4DA4-BEBA-BD484A9F9495"}
+],
+name:"gctbmaestroproveedores_to_albapro",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroproveedores",
+typeid:22,
+uuid:"77EEEC03-95FA-4661-9DC7-DEE594875399"

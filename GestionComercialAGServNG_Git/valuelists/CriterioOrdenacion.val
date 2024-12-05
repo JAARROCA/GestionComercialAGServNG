@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"Por Nº Albarán|0\
+Por Fecha Albarán|1",
+displayValueType:12,
+name:"CriterioOrdenacion",
+realValueType:4,
+typeid:34,
+uuid:"484F50E8-F935-4DD5-89B0-0563CD86B16E"

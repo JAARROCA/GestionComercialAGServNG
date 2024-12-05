@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/conexiongestioncomercialag/efectoscompras",
+items:[
+{foreignColumnName:"nup_efc",primaryDataProviderID:"nup_cfca",typeid:23,uuid:"458BF9C5-BBD2-4D41-9B28-68396A4198F2"},
+{foreignColumnName:"pro_efc",primaryDataProviderID:"pro_cfca",typeid:23,uuid:"67AE542B-6F9C-44B4-A5EF-C55265009325"}
+],
+name:"gctbfacturacompracabecera_to_efectoscompras",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacompracabecera",
+typeid:22,
+uuid:"3D9D90D6-001E-4AA8-9C9C-7D70746A23C0"

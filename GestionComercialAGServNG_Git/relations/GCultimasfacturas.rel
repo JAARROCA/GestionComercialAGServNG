@@ -1,0 +1,9 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+initialSort:"eje_cfa desc, ser_cfa asc, nup_cfa desc",
+items:[
+{foreignColumnName:"clie_cfa",primaryDataProviderID:"clie_cfa",typeid:23,uuid:"043A6B10-999E-4D69-809C-584C65A83252"}
+],
+name:"GCultimasfacturas",
+primaryDataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+typeid:22,
+uuid:"8BC7A9D7-7CC3-404F-AC2B-4B28E37D7BC4"

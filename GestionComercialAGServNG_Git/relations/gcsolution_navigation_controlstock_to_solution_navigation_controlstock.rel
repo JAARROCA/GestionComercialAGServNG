@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/solution_navigation_contrstock",
+items:[
+{foreignColumnName:"solution_id",primaryDataProviderID:"scopes.globals.GCthisSolution_ID",typeid:23,uuid:"270868BD-5DDB-4FF9-BEB5-433B02AB1171"}
+],
+name:"gcsolution_navigation_controlstock_to_solution_navigation_controlstock",
+primaryDataSource:"db:/conexiongestioncomercialag/solution_navigation_contrstock",
+typeid:22,
+uuid:"8CE7891D-81E9-4BC2-8FCF-C948502AF6D3"

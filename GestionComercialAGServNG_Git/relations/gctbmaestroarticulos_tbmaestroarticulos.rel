@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+items:[
+{foreignColumnName:"codigo",primaryDataProviderID:"codigo",typeid:23,uuid:"6D6F0952-CFEB-40BB-A174-E20B060E80B0"}
+],
+name:"gctbmaestroarticulos_tbmaestroarticulos",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+typeid:22,
+uuid:"D1F1B51C-7B49-4859-922C-9E025614A9F8"

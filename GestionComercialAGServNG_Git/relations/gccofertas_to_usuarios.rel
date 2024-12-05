@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/usuarios",
+items:[
+{foreignColumnName:"cod_us",primaryDataProviderID:"usu_cof",typeid:23,uuid:"424FB146-CC01-49C2-8904-793645DC9376"}
+],
+name:"gccofertas_to_usuarios",
+primaryDataSource:"db:/conexiongestioncomercialag/cofertas",
+typeid:22,
+uuid:"F2565014-AA9F-42D7-A062-CFAD10E4B147"

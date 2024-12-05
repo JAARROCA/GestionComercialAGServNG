@@ -1,0 +1,10 @@
+foreignDataSource:"db:/conexiongestioncomercialag/tbfacturacabecera",
+items:[
+{foreignColumnName:"nup_cfa",primaryDataProviderID:"nup_ef",typeid:23,uuid:"794BADE3-67BC-420C-9D3C-2862626669E7"},
+{foreignColumnName:"ser_cfa",primaryDataProviderID:"ser_ef",typeid:23,uuid:"8166039C-FA62-4D3D-9C2C-735F020C3010"},
+{foreignColumnName:"eje_cfa",primaryDataProviderID:"eje_ef",typeid:23,uuid:"D83F4C34-7301-4BF7-A310-78BCE97D67F7"}
+],
+name:"gcefectos_to_tbfacturacabecera",
+primaryDataSource:"db:/conexiongestioncomercialag/efectos",
+typeid:22,
+uuid:"89947C5B-AA8A-41AE-BDAE-2BB8482FD9BC"

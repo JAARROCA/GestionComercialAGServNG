@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/lalbapro",
+items:[
+{foreignColumnName:"refa_lap",primaryDataProviderID:"codigo",typeid:23,uuid:"1CACFC66-C1CB-4982-8F68-D557C0ED3BE0"}
+],
+name:"gctbmaestroarticulos_to_lalbapro",
+primaryDataSource:"db:/conexiongestioncomercialag/tbmaestroarticulos",
+typeid:22,
+uuid:"962F15F3-0C8B-473B-8C5F-8B8DF31CCDFD"

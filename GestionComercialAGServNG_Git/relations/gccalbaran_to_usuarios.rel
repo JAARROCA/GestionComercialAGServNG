@@ -1,0 +1,8 @@
+foreignDataSource:"db:/conexiongestioncomercialag/usuarios",
+items:[
+{foreignColumnName:"cod_us",primaryDataProviderID:"usu_cal",typeid:23,uuid:"CF43C0BA-F6B8-41A5-9DAC-252369B894D3"}
+],
+name:"gccalbaran_to_usuarios",
+primaryDataSource:"db:/conexiongestioncomercialag/calbaran",
+typeid:22,
+uuid:"3701278D-4187-42A6-9860-F4161470053A"

@@ -1,0 +1,14 @@
+addEmptyValue:1,
+customValues:"CLIENTES|0\
+PROVEEDORES|1\
+ARTICULOS|2\
+FACTURAS|3\
+FACTURAS PROFORMA|4\
+DELEGACIONES|5\
+BANCOS|6\
+COMISIONISTAS|7",
+displayValueType:12,
+name:"TipoDatoExportar",
+realValueType:4,
+typeid:34,
+uuid:"F704BD66-B568-42E8-B6FD-BED05DAAE08C"

@@ -1,0 +1,8 @@
+addEmptyValue:1,
+customValues:"NUMERO DE FACTURA|1\
+FECHA|2\
+CLIENTE|3\
+FECHA DE REGISTRO CONTABLE|4",
+name:"OrdenDiarioFacturacion",
+typeid:34,
+uuid:"B22237EC-AD97-4AC8-9266-2CEEC37DF6C3"
